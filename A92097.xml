@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of His Highnesse Prince Rupert, Lord High Admirall of all the navy Royall, belonging to the Kings Majesty Charles the II. Wherein hee cleareth himselfe from many scandalous rumours which have bin cast upon his reputation. Likewise his Highnesse resolution and intention; together with the rest of the officers of the Navy Royall. Touching the death of the late King, the illegall pretended power of Parliament. And their indeavours to inthrone the now King Charles the second. Also shewing their intentions to maintaine the lawes of the land, the liberty of the subject, and just rights and priviledges of a lawfull Parliament. / Signed by the Princes owne hand aboard the Navy Royall, now riding an anchor upon the Downes, the 19.th of March, 1649.</title>
+            <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92097</idno>
+            <idno type="STC">Wing R2293</idno>
+            <idno type="STC">Thomason E546_28</idno>
+            <idno type="STC">ESTC R203412</idno>
+            <idno type="EEBO-CITATION">99863376</idno>
+            <idno type="PROQUEST">99863376</idno>
+            <idno type="VID">115572</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92097)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115572)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E546[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of His Highnesse Prince Rupert, Lord High Admirall of all the navy Royall, belonging to the Kings Majesty Charles the II. Wherein hee cleareth himselfe from many scandalous rumours which have bin cast upon his reputation. Likewise his Highnesse resolution and intention; together with the rest of the officers of the Navy Royall. Touching the death of the late King, the illegall pretended power of Parliament. And their indeavours to inthrone the now King Charles the second. Also shewing their intentions to maintaine the lawes of the land, the liberty of the subject, and just rights and priviledges of a lawfull Parliament. / Signed by the Princes owne hand aboard the Navy Royall, now riding an anchor upon the Downes, the 19.th of March, 1649.</title>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115572:1" rendition="simple:additions"/>
+            <p>THE DECLARATION OF HIS HIGHNESSE PRINCE RUPERT, Lord <hi>High Admirall</hi> of all the <hi>navy Royall,</hi> belonging to the <hi>Kings Majeſty</hi> CHARLES the II. Wherein hee cleareth himſelfe from many <hi>Scandalous Ramours</hi> which have bin caſt upon his Reputation.</p>
+            <p>Likewiſe his Highneſſe <hi>Reſolution</hi> and Intention; Together with the reſt of the <hi>Officers</hi> of the <hi>Navy Royall.</hi>
+            </p>
+            <p>Touching the <hi>Death</hi> of the late KING, the illegall pretended Power of PARLIAMENT. <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd their indeavours to Inthrone the now King CHARLES <hi>the ſecond.</hi>
+            </p>
+            <p>ALSO Shewing their intentions to maintaine the <hi>Lawes</hi> of the <hi>Land,</hi> the <hi>Liberty</hi> of the <hi>Subject,</hi> and juſt <hi>Rights</hi> and <hi>Priviledges</hi> of a <hi>lawfull</hi> Parliament.</p>
+            <p>Signed by the Princes owne hand aboard the Navy Royall, new Riding an Anchor upon the<hi>Downes,</hi> the 19.<hi>th</hi> of <hi>March,</hi> 1649.</p>
+            <p>Printed in the Yeer, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:115572:2"/>
+            <head>A Declaration of his Highneſſe Prince <hi>RUPERT.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He <hi>bloody</hi> and inhumane <hi>murther</hi> of my late dread <hi>
+                  <g ref="char:V">Ʋ</g>ncle</hi> of ever renowned famous memory, hath ad<g ref="char:EOLhyphen"/>miniſtred to me freſh occaſion (if I had no other motives which might further my indignation a<g ref="char:EOLhyphen"/>gainſt the uſurped power in England, to bee aſſiſtant both in councell and the beſt of my perſonall power, as bound by af<g ref="char:EOLhyphen"/>finity to my deare Couſen now <hi>Charles the ſecond King of great Britaine, and all other his late Fathers Dominions</hi>) to take vengeance upon thoſe <hi>Arch-Traytors,</hi> pretending the name of <hi>Parliament,</hi> and keeping a perpetuall <hi>Seſsions,</hi> of blood-thirſtineſſe and murthering <hi>Maſſacre</hi> at <hi>Weſtminſter.</hi> They being not in any capacity or have they the leaſt colour of <hi>honeſty, law,</hi> or <hi>reaſon,</hi> to give them, ſave onely a Libidi<g ref="char:EOLhyphen"/>nous luſtfull will, maintained by the unjuſt Sword of <hi>uſupa<g ref="char:EOLhyphen"/>tion,</hi> hem'd in with <hi>diſloyalty,</hi> and skin'd over with an hipo<g ref="char:EOLhyphen"/>pocriticall pretended freedome of <hi>Religion,</hi> and Subjects <hi>li<g ref="char:EOLhyphen"/>berty,</hi> making ſhew of levelling equality, though no power of a <hi>King</hi> (which is moſt rightfull both by the written word of God, and fundamentall Lawes of <hi>England</hi>) whatever could e<g ref="char:EOLhyphen"/>ver be more tyranically, aſpiringly ambitious, and barbarouſly impious then theirs. Who whatever Promiſes, Oathes, or Covenants were formerly, or now at preſent, are their Acti<g ref="char:EOLhyphen"/>ons manifeſt, their intentions to be <hi>cruelty, tyrannous,</hi> and their rule <hi>Arbitrary,</hi> every way illegall, and more extorting from
+<pb n="3" facs="tcp:115572:2"/>the <hi>Subjects</hi> then the government of a moderate <hi>Monarch</hi> could in any wiſe bee, who is bounded and begirt both with <hi>Law</hi> and <hi>diſcret Councell;</hi> Nay, the greateſt <hi>tyrant</hi> of a <hi>King</hi> cannot act ſuch tragicall villanies, as a vaſt number of miſ<g ref="char:EOLhyphen"/>chievous <hi>wretches</hi> which are bent to wickedneſſe may. Of which truth the Aſſembly of <hi>Traytors</hi> and <hi>rebels</hi> an <hi>weſtmin.</hi> have given ſufficient teſtimonies, there never being heard on in all <hi>antiquity</hi> the like ſubverſion that is now intended and with Rebellions force proſecuted in <hi>England, viz.</hi> Firſt, To mur<g ref="char:EOLhyphen"/>ther their lawfull <hi>King.</hi> 2ly, Baniſh their now <hi>King,</hi> his Brother, with all thoſe which love or adhere to him, exemp<g ref="char:EOLhyphen"/>ting them from <hi>mercy,</hi> and making them by meek Acts <hi>tray<g ref="char:EOLhyphen"/>tors</hi> to them, who are <hi>Rebels</hi> to their <hi>King.</hi> This me thinkes ſhould move all men who are not deſtitute of underſtanding (and have common ſence) to ſee how thoſe audacious <hi>Rebels</hi> have woven their ends, and exploded <hi>Loyalty</hi> with acclamati<g ref="char:EOLhyphen"/>ons, that Rebellion (which is as the ſin of Witchcraft) is be<g ref="char:EOLhyphen"/>come a vertue, and <hi>murther</hi> an Act of <hi>mercy.</hi> Moreover mee thinks it cannot chuſe but be viſible to all eyes (unleſſe wil<g ref="char:EOLhyphen"/>fully blind) that the numerous Iſſue of my deceaſed <hi>
+                  <g ref="char:V">Ʋ</g>ncle</hi> will ſtill procure meanes to keep the <hi>Kingdome</hi> in broyles, ei<g ref="char:EOLhyphen"/>ther with <hi>warres</hi> ſtill in it, or threats and invaſions, which will be altogether as terrible to the <hi>Subject</hi> as War it ſelf can be; ſo long as my deare Couſen now CHARLES <hi>the ſecond,</hi> the <hi>lawfull King of England, Scotland,</hi> and <hi>Jreland &amp;c.</hi> or who<g ref="char:EOLhyphen"/>ever ſhall ſucceed him which have any allyance to the <hi>Crowne</hi> of <hi>England</hi>) are in beeing.</p>
+            <p>I hope therefore and for many reaſons to be alledged on my part, that there is no honeſt <hi>loyall heart</hi> in all the <hi>Kingdome</hi> of <hi>England</hi> or elſe-where, that can with any Iuſtice or knowne truth lay any <hi>capitall</hi> crime to my charge, although it hath been the conſtant indeavours of ſome of the <hi>Engliſh Nation</hi> (who are naturally prone to hate Strangers) to ſeek with falſe
+<pb n="4" facs="tcp:115572:3"/>
+               <hi>Calumnies</hi> and <hi>ſcandalous accuſations,</hi> to blaſt and blemiſh my integrity to my <hi>
+                  <g ref="char:V">Ʋ</g>ncle</hi> and his <hi>Royall</hi> family, by challenging me with <hi>trechery</hi> to him and his party, to the contrary of all which, his late <hi>Majeſty</hi> was well ſatisfied that I was honeſtly reall and wholly his. Thus much I thought fit to ſpeake in my own behalf hoping it will be taken from mine own mouth as a <hi>character</hi> of my <hi>fidelity,</hi> which hath been much ſcandaliz'd by <hi>black mouth <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> which never ſpeakes well of any, and that I thank God is a thing which I have had my <hi>ſhare</hi> of in <hi>England,</hi> for venturing ſo freely and often my life for their <hi>Libert es,</hi> as I take God to witneſs was ever my intention, ne<g ref="char:EOLhyphen"/>ver looking for any preferment at all to raiſe my fortunes a<g ref="char:EOLhyphen"/>bove ordinary by the <hi>Engliſh nation,</hi> which I am confident there are divers now living in <hi>England,</hi> which have had con<g ref="char:EOLhyphen"/>ſtant knowledge of my Actions can juſtifie. I having had ma<g ref="char:EOLhyphen"/>ny preferments proffered me which I have refuſed, deſiring the advancement of my <hi>Vncles</hi> cauſe might be firſt promoted, and for my own particular I dedicated my <hi>life</hi> to his will, and did never intend, to make a greater price of my Service then his late <hi>Majeſty</hi> and <hi>Councell</hi> might adjudge me to deſerve. Nei<g ref="char:EOLhyphen"/>ther hath the abuſe layd upon mee by my <hi>Vncles</hi> pretended <hi>friends</hi> been ſufficient. But the groſſe <hi>Lies</hi> and <hi>forgeries</hi> of that <hi>Rebell <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t at Weſtminſter,</hi> have branded me with the very worſt of crimes that poſſible any man might be charged with. As that I was barbarouſly cruell and did tyrannically uſe not only <hi>Souldiers</hi> but likewiſe <hi>Country-people,</hi> by <hi>Plunder, rapes, thefts, &amp;c.</hi> with many more exorbitances, as Raviſhings of <hi>M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ydens,</hi> and deſtroying young Children, all which was to no other end then to wound my reputation, and make me abomi<g ref="char:EOLhyphen"/>nably odious to the vulgar, whoſe braines itched with a deſire of novelty and were ever willing to imbrace any falſities. But to cleere my ſelfe from all theſe, I did it was well knowne to many ever deteſt and hate ſuch proceedings, holding them to
+<pb n="5" facs="tcp:115572:3"/>be the greateſt and moſt inhumane barbariſmes that could by any <hi>Chriſtians</hi> poſſible be invented. But I finding the diſpoſi<g ref="char:EOLhyphen"/>tion of the <hi>Engliſh Nation,</hi> both pretends <hi>friends</hi> and open <hi>e<g ref="char:EOLhyphen"/>nemies</hi> of my late <hi>Vncles,</hi> to ſtrive nothing more then to caſt a perpetuall <hi>odium</hi> upon me, and ſeeing my ſelf unfortunate in moſt of my adventures, I doe ſeriouſly proteſt it was often my deſires to have left that high imployment of <hi>Generall,</hi> and to ſerve my <hi>Vncle</hi> in a leſſer and lower degree of <hi>Command.</hi> But it was ever the will of my <hi>dread</hi> deceaſed <hi>Vncle</hi> (of ever ho<g ref="char:EOLhyphen"/>noured and famous memory) whoſe love was ſtill to me intire and whoſe affections I found ever inviolable (to his Subjects good) to have me continue in the Command which his <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> had been graciouſly pleaſed to confer upon me, which as I ſhall anſwer at the day of judgement, I did improve to the beſt of my <hi>power</hi> without any <hi>treachery, deceit,</hi> or <hi>diſsimulati<g ref="char:EOLhyphen"/>on</hi> in what kind ſoever; and for my unfortunateneſſe, I hope, it was excuſable, it not only being incident where I had Com<g ref="char:EOLhyphen"/>mand and was Perſonally preſent, but in all other Places where my late <hi>
+                  <g ref="char:V">Ʋ</g>ncle</hi> had any power of <hi>ſouldiers.</hi> Yet notwithſtan<g ref="char:EOLhyphen"/>ding I was the <hi>Butt</hi> whereat envie ſhot its <hi>Arrowes,</hi> and all my <hi>
+                  <g ref="char:V">Ʋ</g>ncles</hi> loſſes were generally layd to my charge. And I look't upon by many (who were not ſenſible of my integrity) as a trecherous and perfidious ſeller of my late <hi>Vncles Cities, Ca<g ref="char:EOLhyphen"/>ſtles, Townes,</hi> and <hi>Gariſons,</hi> yes even his <hi>Armyes,</hi> when it was e<g ref="char:EOLhyphen"/>vident to all, that no man whatſoever either private <hi>Souldier,</hi> or <hi>Officer,</hi> did hazard more his <hi>life</hi> and further ingage his Per<g ref="char:EOLhyphen"/>ſon then my ſelf; and how trecherous dealing and underhand compliance with my <hi>Vncles</hi> enemies could be attributed to my charge, for ſuch <hi>Acts</hi> I know not, and doubt not all honeſt ra<g ref="char:EOLhyphen"/>tionall men will be ſatisfied, and their judgement confuted by theſe my reall expreſſions, which I call the Almighty Iudge of heaven and earth to witneſſe is no other then truth.</p>
+            <p>Now for my judgement in this new <hi>war,</hi> in behalfe of my
+<pb n="6" facs="tcp:115572:4"/>dearely beloved Couſen, I do proteſt and really ſpeake it I did ever intend to do him any ſervice &amp; imploy my beſt indeavors for his inthroning as bound by <hi>Conſangvinity,</hi> but more parti<g ref="char:EOLhyphen"/>cularly ingaged by reaſon of former favours received from his late <hi>Royall Father,</hi> my <hi>murthred vnckle,</hi> and though it was my intentions to ſerve him as I have heare ſpoake it: yet I doe in<g ref="char:EOLhyphen"/>geniouſly confeſſe it was never my deſire to bee imployed in this great and waighty command of his <hi>Majeſties Admirall,</hi> but ſhould willingly have beene well ſatisfied with an inferior place where I might have had the freedome, in part to bring ſuch great <hi>Traitors</hi> and <hi>Rebels</hi> to condigne puniſhment, who had a hand in the <hi>murther</hi> of my late <hi>
+                  <g ref="char:V">Ʋ</g>nckle,</hi> and doe ſtill per<g ref="char:EOLhyphen"/>ſiſt in their peruerſe wayes of <hi>Rebellion</hi> and <hi>Cruelty,</hi> and my reaſons, why I did not wiſh ſo great a command were theſe; <hi>viz.</hi> I know and was aſcertained, my ſelf had been rendred odi<g ref="char:EOLhyphen"/>ous to many <hi>Engliſh</hi> who did not throughly underſtand my re<g ref="char:EOLhyphen"/>all intentions, but onely beleev'd <hi>lies</hi> and forged reports of my mortall Enemies framing. And I did likewiſe conſider that my undertakeing the <hi>Admiralty,</hi> might bee a meanes to draw away the affections of his <hi>Majeſties Subjects,</hi> by reaſon ſuch rumours had been upon me. Theſe and many other reaſons, (which now I will omit) did moove me ſeverall times to refuſe what at length his <hi>Majeſties</hi> Councell of <hi>Lords, Knights,</hi> and <hi>Gentlemen,</hi> who are about him: did in a maner force it upon mee, which peradventure at firſt diſpleaſed ſome aſpiring <hi>Spi<g ref="char:EOLhyphen"/>rits,</hi> who gapt for that imployment which now I have: and will by the grace of <hi>God,</hi> to my power manage as may be moſt pro<g ref="char:EOLhyphen"/>fitable for my <hi>Coſen,</hi> his now <hi>Majeſty,</hi> and for the ſpeedieſt ſet<g ref="char:EOLhyphen"/>tlement of him in his late <hi>Fathers Throne.</hi> I wil now deſire your patience a litle longer and do intend (God willing) to give mine and the Gentlemens about me their <hi>Intenſions</hi> and <hi>reſolutions,</hi> both for preſent proceedings and future actings, ſo long as <hi>God</hi> ſhall enable us ſo to doe; and wee doe hereby declare and
+<pb n="7" facs="tcp:115572:4"/>proteſt to all the whole <hi>Kingdome,</hi> what wee with our fortunes (and that which is moſt deare to us even our lives) will pro<g ref="char:EOLhyphen"/>ſecute, and to the vtmoſt of our power performe to a <hi>tittle,</hi> the particuler <hi>beads</hi> are as followes, <hi>viz.</hi>
+            </p>
+            <p n="1">1. Wee doe proteſt and declare, That wee will uſe all poſ<g ref="char:EOLhyphen"/>ſible meanes and imploy our intereſts for to inthrone <hi>King Charles</hi> the ſecond in his <hi>Kingdome</hi> of <hi>England,</hi> and all other his <hi>Dominions,</hi> which were his late <hi>Fathers,</hi> and with all our force power &amp; ſtrength, his <hi>Royall Perſon</hi> will indeavor to defend maintaine and keepe. And will ever to the utmoſt of our pow<g ref="char:EOLhyphen"/>ers preſerve him from the Treacherous attempts of uſurping <hi>Rebbels,</hi> upholding and ſuporting ſo much as in us lyeth all his <hi>Regal authority, Kingly rights, priveledges, and prerogatives,</hi> which of due belong to him as ſucceſſive <hi>King</hi> of <hi>England,</hi> and as have beene enioyed by his predeceſſors of our later ages, <hi>viz. Queene Elizabeth, King Iames, and his late Royall Father of famous memory.</hi>
+            </p>
+            <p n="2">2ly. That wee will ever bee carefull to preſerve the <hi>anti<g ref="char:EOLhyphen"/>ent</hi> and <hi>Fundamentall Lawes, Statutes, Cuſtomes, immunities Priviledges,</hi> and <hi>Freedomes</hi> of each <hi>Subiect</hi> of this <hi>Kingdome</hi> of <hi>England.</hi> And will never yeild conſent or aſſent to have them violated and broken, nor any <hi>Arbitrary</hi> rule introduced, ſave onely ſuch wholeſome <hi>Lawes</hi> as a <hi>Parliament</hi> freely e<g ref="char:EOLhyphen"/>lected by his <hi>Majeſties writ:</hi> (and cauſiſting of <hi>King, Lords</hi> and <hi>Commons</hi>) ſhall thinke fit to conſtitute.</p>
+            <p n="3">3ly. That wee will ever bee ready with our <hi>lives</hi> and for<g ref="char:EOLhyphen"/>tunes, to defend the power of <hi>Parliament</hi> (when legally choſen) and its <hi>Iuſt rights</hi> and <hi>Priviledges,</hi> to the utmoſt of our power will preſerve and keepe free from violation and never (as now there is over the Iunto at weſtminſter) conſtituting any power of Sword upon them, whereby to make them act contrary to the Subjects good, for our private gaine: ſuch conſtraining force being contrary to the knowne Lawes of this Land. And the moſt <hi>arbitrary</hi> and <hi>tiranicall act,</hi> that may bee invented:
+<pb n="8" facs="tcp:115572:5"/>there being now no <hi>Law</hi> ſave ſuch as a <hi>Rebellious Army</hi> of <hi>Sectarian Murtherers</hi> will pleaſe to have.</p>
+            <p n="4">4ly. And for the City of <hi>London</hi> in particuler, wee doe declare and proteſt wee will not hinder their trading by <hi>See,</hi> for <hi>Wind, Coales,</hi> or any other neceſſaries, ſo long as the <hi>Cap<g ref="char:EOLhyphen"/>taines,</hi> and <hi>Maſters,</hi> of ſuch <hi>Marchants Shipps,</hi> ſhall pay unto us all ſuch <hi>dues</hi> and <hi>Cuſtomes</hi> as doe belong to his <hi>Majeſty,</hi> and likewiſe that they doe acknowledge him for their <hi>King,</hi> and <hi>lawfull heire</hi> to the <hi>Crowne</hi> of <hi>England:</hi> by ſtriking ſayle to his <hi>Admirall,</hi> and yeelding obedience to his <hi>commands,</hi> as one law<g ref="char:EOLhyphen"/>fully authorized by his ſaid <hi>Majeſty, Charles the ſecond King of great Brittaine.</hi>
+            </p>
+            <p n="5">5ly. That wee have no intention to injure or hurt the perſon nor diminiſh, take away, confiſcate, or make forſeit the goods, eſtates, or lands, of any the inhabitants of <hi>England,</hi> who will leave their <hi>Rebellion,</hi> and ingagements of <hi>Treaſon,</hi> (now ſo earneſtly agitated) ſubmitting themſelues to his <hi>Majeſty</hi> as be<g ref="char:EOLhyphen"/>comes true <hi>Subjects,</hi> and as men boundby their ſeverall <hi>oathes</hi> of <hi>alegeance</hi> to bee true to their <hi>King,</hi> his <hi>Heires</hi> and ſucceſſors: nay further the <hi>Covenant</hi> hath the ſame influence of <hi>obligati<g ref="char:EOLhyphen"/>on</hi> upon all ſuch who will not be <hi>perjvred.</hi>
+            </p>
+            <p n="6">6ly. And laſtly, that if any Marriners, Water-men, or Souldiers, ſhall deſert that <hi>Conventickle</hi> of <hi>Traytors</hi> at <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> and repayr to us, they ſhall bee rewarded according to their Qualities, and have imployment befitting them. Like<g ref="char:EOLhyphen"/>wiſe any <hi>Gentleman,</hi> or other of inferior Ranke, who are wil<g ref="char:EOLhyphen"/>ling to ſerve their <hi>King,</hi> if they will repayre to us, ſhall be en<g ref="char:EOLhyphen"/>tertained with much reſpect, tho they have formerly beene our Enemies, yet wee will procure an <hi>Act</hi> of <hi>Indemnity</hi> for them. All theſe things God-willing, wee doe intend to pro<g ref="char:EOLhyphen"/>ſecvte to the vtmoſt of our powers, and doubt not but that <hi>God</hi> and all good men will be aſſiſting here in.</p>
+            <closer>So God ſave King <hi>GHARLES,</hi> the Second.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
